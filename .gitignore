@@ -1,0 +1,16 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.pdb
+
+# Local development config
+appsettings.Development.json
