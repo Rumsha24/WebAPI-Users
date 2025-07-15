@@ -21,7 +21,7 @@ This project is a CRUD-based ASP.NET Core Web API built in Visual Studio 2022 fo
 - SQL Server (via SSMS)
 - Swagger UI
 - Visual Studio 2022
-- Azure DevOps (Git)
+- Azure DevOps/GitHub (Git)
 
 ---
 
